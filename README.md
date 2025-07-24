@@ -1,6 +1,3 @@
-# Bitcoin Price Prediction
-![Repository Size](https://img.shields.io/github/repo-size/sujal-revankar07/Bit-coin-pric
-![Last Commit](https://img.shields.io/github/last-commit/sujal-revankar07/Bit-coin-price-
 ## Overview
 This project is focused on predicting the price of Bitcoin using data-driven, machine lea
 ---
