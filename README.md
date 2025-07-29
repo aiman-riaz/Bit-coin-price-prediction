@@ -1,5 +1,5 @@
 ## Overview
-This project is focused on predicting the price of Bitcoin using data-driven, machine lea
+This project is focused on predicting the price of Bitcoin using data-driven, machine learning
 ---
 ## 📁 Repository Structure
 - **BTC PRICE.ipynb** – Main Jupyter Notebook containing the code for data analysis, visu
